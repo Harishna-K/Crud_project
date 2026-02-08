@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": "a11c",
+      "firstName": "Harishna",
+      "lastName": "K",
+      "phone": "6211323152",
+      "email": "harishna@gmail.com"
+    },
+    {
+      "id": "b2a5",
+      "firstName": "Dharani",
+      "lastName": "G",
+      "phone": "9908647814",
+      "email": "dharani@gmail.com"
+    },
+    {
+      "id": "e1b5",
+      "firstName": "gayathri",
+      "lastName": "VR",
+      "phone": "9908647814",
+      "email": "gayathri@gmail.com"
+    },
+    {
+      "id": "f351",
+      "firstName": "Jerry",
+      "lastName": "T",
+      "phone": "9857678735",
+      "email": "jerry@gmail.com"
+    },
+    {
+      "id": "108c",
+      "phone": "7634732651",
+      "firstName": "Tom",
+      "lastName": "J",
+      "email": "tom@gmail.com"
+    }
+  ]
+}
