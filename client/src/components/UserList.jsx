@@ -41,11 +41,19 @@ export default function UserList({ users, onEdit, onDelete }) {
 
               <TableCell align="center">
                 <Stack direction="row" spacing={1} justifyContent="center">
-                  <IconButton onClick={() => onEdit(user)} color="primary">
+                  <IconButton
+                    color="primary"
+                    onClick={() => onEdit(user)}
+                    aria-label="edit"
+                  >
                     <EditIcon />
                   </IconButton>
 
-                  <IconButton onClick={() => onDelete(user.id)} color="error">
+                  <IconButton
+                    color="error"
+                    onClick={() => onDelete(user.id)}
+                    aria-label="delete"
+                  >
                     <DeleteIcon />
                   </IconButton>
                 </Stack>
